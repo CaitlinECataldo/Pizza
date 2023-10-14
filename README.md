@@ -1,2 +1,0 @@
-# Pizza
-Simple pizza graphic
